@@ -5,7 +5,7 @@
 
 
 #### Remarks
-- Welcome to give me a star ⭐, let me know how many people want to know about this job 🤩.
+- Welcome to give me a star ⭐, let me know how many people want to know about this work 🤩.
 - It is said that people who click on stars ⭐ will have better acceptance rates for their papers 😃. 
 
 
