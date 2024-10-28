@@ -3,6 +3,13 @@
 The code of paper _**IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment**_ [[arxiv](https://arxiv.org/abs/2407.19302)] [[ACM MM](https://dl.acm.org/doi/10.1145/3664647.3680954)] in Proceedings of ACM MM 2024.
 
 
+<div align="center">
+    <img src="./files/IBMEA.png" width="70%" height="auto" />
+</div>
+
+
+
+
 ## Env
 
 Run the following command to create the required conda environment:
@@ -48,5 +55,6 @@ series = {MM '24}
 #### Remarks
 - Welcome to give me a star ⭐, let me know how many people want to know about this work 🤩.
 - It is said that people who click on stars ⭐ will have better acceptance rates for their papers 😃. 
+- **路过点star,下次中A啊！！！！**
 
 
