@@ -41,14 +41,30 @@ If you use this model or code, please cite it as follows:
 
 ```
 @inproceedings{IBMEA,
-author = {Su, Taoyu and Sheng, Jiawei and Wang, Shicheng and Zhang, Xinghua and Xu, Hongbo and Liu, Tingwen},
-title = {IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment},
-year = {2024},
-isbn = {9798400706868},
-url = {https://doi.org/10.1145/3664647.3680954},
-doi = {10.1145/3664647.3680954},
-location = {Melbourne VIC, Australia},
-series = {MM '24}
+  author       = {Taoyu Su and
+                  Jiawei Sheng and
+                  Shicheng Wang and
+                  Xinghua Zhang and
+                  Hongbo Xu and
+                  Tingwen Liu},
+  editor       = {Jianfei Cai and
+                  Mohan S. Kankanhalli and
+                  Balakrishnan Prabhakaran and
+                  Susanne Boll and
+                  Ramanathan Subramanian and
+                  Liang Zheng and
+                  Vivek K. Singh and
+                  Pablo C{\'{e}}sar and
+                  Lexing Xie and
+                  Dong Xu},
+  title        = {{IBMEA:} Exploring Variational Information Bottleneck for Multi-modal
+                  Entity Alignment},
+  booktitle    = {Proceedings of the 32nd {ACM} International Conference on Multimedia,
+                  {MM} 2024, Melbourne, VIC, Australia, 28 October 2024 - 1 November
+                  2024},
+  pages        = {4436--4445},
+  publisher    = {{ACM}},
+  year         = {2024}
 }
 ```
 
