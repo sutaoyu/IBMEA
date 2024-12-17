@@ -22,7 +22,9 @@ conda env create -f environment.yml -n IBMEA
 
 ### Cross-KG datasets
 
-The original cross-KG datasets (FB15K-DB15K/YAGO15K) comes from [MMKB](https://github.com/mniepert/mmkb), in which the image embeddings are extracted from the pre-trained VGG16. We use the image embeddings provided by [MMKB](https://github.com/mniepert/mmkb#visual-data-for-fb15k-yago15k-and-dbpedia15k). Place `mmkb-datasets` directory  in the `data` directory.
+The original cross-KG datasets (FB15K-DB15K/YAGO15K) comes from [MMKB](https://github.com/mniepert/mmkb), in which the image embeddings are extracted from the pre-trained VGG16. We follow [MCLEA](https://github.com/lzxlin/MCLEA) use the image embeddings provided by [MMKB](https://github.com/mniepert/mmkb#visual-data-for-fb15k-yago15k-and-dbpedia15k) and transform the data into the format consistent with DBP15K.
+The converted dataset can be downloaded from [BaiduDisk](https://pan.baidu.com/s/1xOz8ga_J1LPbBSIgSFHbNQ) (the password is `IBME`)
+Place `mmkb-datasets` directory  in the `data` directory.
 
 ### Bilingual datasets
 
@@ -67,6 +69,11 @@ If you use this model or code, please cite it as follows:
   year         = {2024}
 }
 ```
+
+# Acknowledgement
+
+We appreciate [MCLEA](https://github.com/lzxlin/MCLEA), [EVA](https://github.com/cambridgeltl/eva), [MMEA](https://github.com/liyichen-cly/MMEA) and many other related works for their open-source contributions.
+
 
 #### Remarks
 - Welcome to give me a star ⭐, let me know how many people want to know about this work 🤩.
